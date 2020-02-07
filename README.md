@@ -1,2 +1,2 @@
 # space-engineers-pb-scripts
-My Set or Programmable Block Scripts
+My Set of Programmable Block Scripts
